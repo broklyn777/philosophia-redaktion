@@ -1,3 +1,0 @@
-# Bibeln
-
-> Under uppbyggnad.

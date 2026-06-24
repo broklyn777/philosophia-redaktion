@@ -1,3 +1,0 @@
-# Psykologi
-
-> Under uppbyggnad.

@@ -1,3 +1,0 @@
-# Filosofer
-
-> Under uppbyggnad.

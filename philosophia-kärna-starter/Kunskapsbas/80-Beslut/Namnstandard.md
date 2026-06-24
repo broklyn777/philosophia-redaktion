@@ -1,3 +1,0 @@
-# Namnstandard
-
-> Under uppbyggnad.
