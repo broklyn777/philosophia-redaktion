@@ -1,3 +1,85 @@
+# Andligt sjukhus
+
+## Metadata
+
+| Fält           | Värde                                                     |
+| -------------- | --------------------------------------------------------- |
+| **Status**     | Sammanfattning                                            |
+| **Typ**        | Begrepp, Boksammanfattning                                |
+| **Område**     | Teologi, Antropologi, Andlig psykologi                    |
+| **Ämnen**      | Andligt sjukhus, Läkedom, Nous, Kyrkan, Hierotheos        |
+| **Personer**   | Hierotheos Vlachos, Evagrios Pontikos, Maximos Bekännaren |
+| **Källa**      | *Orthodox Psychotherapy*                                  |
+| **Prioritet**  | Hög                                                       |
+| **Publicerad** | Nej                                                       |
+| **Skapad**     | 2026-06-24                                                |
+
+---
+
+## Frö
+
+> Tänk om människans största problem inte är att hon vet för lite om Gud, utan att hennes inre liv har blivit sjukt och behöver helas?
+
+---
+
+## Kärnidé
+
+Hierotheos beskriver kyrkan inte främst som en institution för undervisning eller moralisk fostran, utan som ett **andligt sjukhus**.
+
+Människans grundproblem är inte juridisk skuld utan en sjukdom i hennes inre liv. Nous – hjärtats öga – har förlorat sin naturliga riktning mot Gud och blivit splittrat genom logismoi, passioner och begär.
+
+Kristendomens uppgift är därför inte i första hand att ge människan mer information, utan att gradvis hela hennes inre så att hon åter blir hel och kan leva i gemenskap med Gud.
+
+---
+
+## Centrala begrepp
+
+* Nous
+* Logismoi
+* Passioner
+* Nepsis
+* Jesusbönen
+* Katharsis
+* Fotisis
+* Theosis
+
+---
+
+## Grundteser
+
+* Kyrkan förstås i första hand som ett andligt sjukhus.
+* Kristendomen är en terapeutisk väg.
+* Människans djupaste problem är sjukdom snarare än juridisk skuld.
+* Nous är människans innersta uppmärksamhet och behöver helas.
+* Läkedom sker genom omvändelse, askes, bön och kyrkans liv.
+* Målet är människans återställda gemenskap med Gud.
+
+---
+
+## Relaterade dokument
+
+* Nous
+* Logismoi
+* Nepsis
+* Jesusbönen
+* Passioner
+* Theosis
+* Om människan
+* Nous – hjärtats uppmärksamhet
+
+---
+
+## Möjliga artiklar
+
+* Kyrkan som ett andligt sjukhus
+* Vad betyder andlig läkedom?
+* Är människans problem skuld eller sjukdom?
+* Hur helas nous?
+* Den terapeutiska människan
+
+
+
+
 # Orthodox Psychotherapy – koncentrerad sammanfattning
 
 En koncentrerad sammanfattning av kärnan i Hierotheos Vlachos *Orthodox Psychotherapy*.
