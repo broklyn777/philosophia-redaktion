@@ -1,4 +1,4 @@
-# Orthodox Psychotherapy – Kapitel-för-kapitel-sammanfattning
+# Orthodox Psychotherapy – Kapitel-för-kapitel-sammanfattning av Grok
 
 **Bok:** *Orthodox Psychotherapy: The Science of the Fathers*  
 **Författare:** Metropolitan Hierotheos (Vlachos) av Nafpaktos
